@@ -2,12 +2,13 @@
   "name": "node-prisma",
   "packageManager": "yarn@4.9.1",
   "devDependencies": {
+    "@types/express": "5.0.2",
     "@types/node": "22.15.29",
     "prisma": "6.8.2",
-    "tsx": "4.19.4",
     "typescript": "5.8.3"
   },
   "dependencies": {
-    "@prisma/client": "6.8.2"
+    "@prisma/client": "6.8.2",
+    "express": "5.1.0"
   }
 }

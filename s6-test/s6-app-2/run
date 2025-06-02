@@ -1,0 +1,3 @@
+#!/command/execlineb -P
+cd /workspace/node-prisma
+node index.js
